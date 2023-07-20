@@ -1,0 +1,1 @@
+install k8s on 2 components, master and worker nodes.

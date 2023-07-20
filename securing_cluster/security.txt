@@ -1,0 +1,16 @@
+
+
+Authentication:
+
+certs
+Static Token file
+bootstrap tokens
+static password file
+service account tokens
+
+Authorization:
+
+API-server
+Role Based Access Controller
+rbac
+

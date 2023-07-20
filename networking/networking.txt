@@ -1,0 +1,1 @@
+1. every POD should have unique IP.

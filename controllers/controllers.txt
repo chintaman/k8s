@@ -1,0 +1,10 @@
+
+
+Types:
+ReplicaSet
+Replication Controller
+Deployments
+StatefulSets
+DaemonSet
+TTLCOntrollers
+Jobs

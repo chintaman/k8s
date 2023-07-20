@@ -1,0 +1,13 @@
+labels
+selectors
+annotations
+
+
+Services :
+Types
+ClusterIP
+NodePort
+LoadBalancer
+ExternalName
+
+Services are superset of each other.
